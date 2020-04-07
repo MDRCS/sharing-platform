@@ -22,6 +22,6 @@ is an application that allows people, to expose there opinion thought posts.
 
 ```
 
-###+ ISSUES:
+### + ISSUES:
 
 #####-> GMAIL SMTP SERVER - COMPLETE REGISTRATION [SOLVED](https://stackoverflow.com/questions/16512592/login-credentials-not-working-with-gmail-smtp)
