@@ -24,4 +24,6 @@ is an application that allows people, to expose there opinion thought posts.
 
 ### + ISSUES:
 
-##### -> GMAIL SMTP SERVER - COMPLETE REGISTRATION [SOLVED](https://stackoverflow.com/questions/16512592/login-credentials-not-working-with-gmail-smtp)
+##### -> GMAIL SMTP SERVER - COMPLETE REGISTRATION
+ + [SOLVED](https://stackoverflow.com/questions/16512592/login-credentials-not-working-with-gmail-smtp)
+ + [ACTIVATION](https://support.google.com/accounts/answer/6010255)
