@@ -1,0 +1,44 @@
+# this requirements file is used by Heroku
+# requirements for other configurations are located in the requirements subdirectory
+# -r requirements/heroku.txt
+certifi
+chardet
+coverage
+faker
+httpie
+idna
+Pygments
+requests
+selenium
+urllib3
+alembic
+bleach
+blinker
+click
+dominate
+Flask
+Flask-Bootstrap
+Flask-HTTPAuth
+Flask-Login
+Flask-Mail
+Flask-Migrate
+Flask-Moment
+Flask-PageDown
+Flask-SQLAlchemy
+Flask-WTF
+html5lib
+itsdangerous
+Jinja2
+Mako
+Markdown
+MarkupSafe
+python-dateutil
+python-dotenv
+python-editor
+six
+SQLAlchemy
+visitor
+webencodings
+Werkzeug
+WTForms
+Flask-SSLify
